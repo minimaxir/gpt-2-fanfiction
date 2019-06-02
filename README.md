@@ -2,6 +2,8 @@
 
 Experiments in creating fanfiction prompts around certain topics using GPT-2 (exact method for creating propmpts will be released eventually).
 
+The names of the `.txt` files indicate the keywords used to generate the fanfiction.
+
 ## Maintainer/Creator
 
 Max Woolf ([@minimaxir](https://minimaxir.com))
