@@ -1,6 +1,6 @@
 # gpt-2-fanfiction
 
-Experiments in creating fanfiction prompts around certain topics using GPT-2 (exact method for creating prompts will be released eventually).
+Experiments in creating fanfiction prompts around certain topics using GPT-2 (exact method for creating prompts will be released eventually). All generated texts in this repo were generated from the same finetuned GPT-2 model.
 
 The names of the `.txt` files indicate the keywords used to generate the fanfiction.
 
