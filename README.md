@@ -2,7 +2,7 @@
 
 Experiments in creating fanfiction prompts around certain topics using GPT-2 (exact method for creating propmpts will be released eventually).
 
-The names of the `.txt` files indicate the keywords used to generate the fanfiction.
+The names of the `.txt` files indicate the keywords used to generate the fanfiction. (to get the text to wrap across lines, view the file using the `Raw` button or download the file locally and view there)
 
 ## Maintainer/Creator
 
